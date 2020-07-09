@@ -29,7 +29,7 @@
     "graphiql": "^0.8.1",
     "graphql": "^0.8.2",
     "isomorphic-fetch": "^2.1.1",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "mousetrap": "^1.5.3",
     "object-assign": "^4.0.1",
     "radium": "^0.14.1",
